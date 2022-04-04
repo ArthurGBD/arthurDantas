@@ -1,24 +1,56 @@
- ### Hi there 👋
+### Oie devs 👋
 
-ArthurGBD/arthurDantas is a ✨ _special_ ✨
+Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+```kotlin
+object **SEU NOME** {
+ val name = "SEU NOME COMPLETO"
+ val acknowledgements = "ÁREA DE CONHECIMENTO"
+ 
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
+}
+```
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ArthurGBD)
+## **Linguagens e Ferramentas:**  
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+[website]: https://codedev.ga/
+[twitter]: https://twitter.com/SEUTWITTER
+[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
+[instagram]: https://www.instagram.com/SEUINSTAGRAM/
+[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+<br>
+
+#### Rede Sociais!
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin] 
